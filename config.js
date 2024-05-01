@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5214271951557", '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
+["994406674437", '☆𝒔𝒉𝒂𝒅𝒐𝒘-𝑩𝒐𝒕☆', false],
 ["51948705559", '𝙊𝙬𝙣𝙚𝙧', true], 
 ["51948273587"],  
 ["5217442363122", '𝑖𝑍𝑖', true],
@@ -36,7 +36,7 @@ global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "+994406674437" //example: "+59309090909"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
